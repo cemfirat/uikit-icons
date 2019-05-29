@@ -1,2 +1,2 @@
 # uikit-icons
-The slender Icon Library from uikit is extended with these icons
+The slender icon-set from uikit 3.x is extended with these icons.
